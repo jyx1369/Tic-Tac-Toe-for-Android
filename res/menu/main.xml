@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/create_game_menu"
+        android:orderInCategory="100"
+        android:title="@string/empty_string"
+        android:icon="@drawable/button_new_game_small_2x"
+        android:showAsAction="always"/>
+
+</menu>

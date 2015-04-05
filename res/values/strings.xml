@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- app name -->
+    <string name="app_name">Tic Tac Toe</string>
+    <!-- empty string -->
+    <string name="empty_string"></string>
+    <!-- GameAcitivity name -->
+    <string name="title_activity_game">GameActivity</string>
+    <!-- GameModeAcitivity name -->
+    <string name="title_activity_game_mode">GameModeActivity</string>
+     <!-- name for gameMode -->
+    <string name="gameMode">Game Mode</string>
+     <!-- name for starting piece-->
+    <string name="startPiece">Starting Piece</string>
+     <!-- name for game mode -->
+    <string name="game_mode">Game Mode</string>
+
+</resources>
